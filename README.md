@@ -1,7 +1,7 @@
 # RDBMS used:
 * Postgres
 # A link to how to install postgres:
-* 
+* https://www.youtube.com/watch?v=0n41UTkOBb0
 # Usage:
 * Using postgres shell command \i.
 * \i path to read sql commands from file.
