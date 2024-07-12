@@ -60,5 +60,4 @@
 * Perform complex queries involving joins, subqueries, and set operations.
 * Utilize aggregate functions and grouping to analyze data.
 * Implement stored procedures and functions for database operations.
-### Submission:
-* Students should submit their SQL scripts along with a report explaining each query and its output.
+
